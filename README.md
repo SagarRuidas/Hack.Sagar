@@ -1,2 +1,0 @@
-# Hack.Sagar
-Hack Sagar
